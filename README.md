@@ -1,2 +1,0 @@
-# tuvim
-Tuvim image editting
